@@ -1,6 +1,9 @@
 This is a backup of an old project that used a Raspberry Pi to display content on two eink displays via IT8951 e-paper controller, used GPIO buttons to control the content. The code completed the logic of saving the created pages and navigating pages using the buttons. However, some modules such as socialmedia_scraper are not working due to missing code. 
 
+![pj_eink_book](https://github.com/user-attachments/assets/9d8d16cc-5f23-48da-aa5f-4686c753f6d9)
+
 # Setup environment
+
 1. suggest using anaconda for environment management. python >= 3.8 is required.
 
     `conda create -n <name of env> python=3.8`
